@@ -1,2 +1,2 @@
 # browserslist-config-nextcloud
-Shared browserlist config for Nextcloud
+Shared browserslist config for Nextcloud
