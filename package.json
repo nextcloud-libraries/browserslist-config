@@ -1,5 +1,5 @@
 {
-  "name": "browserslist-config-nextcloud",
+  "name": "@nextcloud/browserslist-config",
   "version": "0.0.1",
   "description": "Shared browserslist for Nextcloud libraries and apps",
   "main": "browserlist.config.js",

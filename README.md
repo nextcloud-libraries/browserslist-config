@@ -1,4 +1,4 @@
-# browserslist-config-nextcloud
+# @nextcloud/browserslist-config
 
 Shared browserslist config for Nextcloud
 
@@ -7,7 +7,7 @@ Shared browserslist config for Nextcloud
 Install the module
 
 ```shell
-$ npm install browserslist-config-nextcloud --save-dev
+$ npm install @nextcloud/browserslist-config --save-dev
 ```
 
 ## Usage
@@ -17,7 +17,7 @@ $ npm install browserslist-config-nextcloud --save-dev
 ```json
 {
   "browserslist": [
-    "extends browserslist-config-nextcloud"
+    "extends @nextcloud/browserslist-config"
   ]
 }
 ```
