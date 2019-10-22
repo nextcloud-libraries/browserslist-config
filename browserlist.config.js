@@ -3,5 +3,6 @@ module.exports = [
   'last 2 versions',
   'ie >= 11',
   'firefox ESR',
-  'not dead'
+  'not dead',
+  'not op_mini all'
 ];
