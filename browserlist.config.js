@@ -1,7 +1,6 @@
 module.exports = [
-  // TODO: https://jamie.build/last-2-versions
-  'last 2 versions',
-  'ie >= 11',
-  'firefox ESR',
+  '>0.25%',
+  'not ie 11',
+  'not op_mini all',
   'not dead'
 ];
