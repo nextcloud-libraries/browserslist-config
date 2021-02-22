@@ -4,6 +4,8 @@
 
 Shared browserslist config for Nextcloud
 
+⚠️ Since v2, we dropped support for IE ⚠️
+
 ## Installation
 
 Install the module
