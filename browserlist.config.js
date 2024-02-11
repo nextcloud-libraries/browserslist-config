@@ -3,4 +3,5 @@ module.exports = [
   'not op_mini all',
   'not dead',
   'Firefox ESR',
+  'Safari 15.5',
 ];
