@@ -3,8 +3,9 @@
  * SPDX-License-Identifier: GPL-3.0-or-later
  */
 module.exports = [
-  '>0.25%',
+  'defaults',
   'not op_mini all',
   'not dead',
   'Firefox ESR',
+  'baseline widely available',
 ];
