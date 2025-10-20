@@ -2,7 +2,7 @@
  * SPDX-FileCopyrightText: 2025 Nextcloud GmbH and Nextcloud contributors
  * SPDX-License-Identifier: GPL-3.0-or-later
  */
-import browserslistConfig from '../browserlist.config.js'
+import browserslistConfig from '../browserslist.config.js'
 import browserslist from 'browserslist'
 import { getUserAgentRegex } from 'browserslist-useragent-regexp'
 
