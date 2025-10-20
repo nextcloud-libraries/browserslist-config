@@ -15,7 +15,7 @@
   "author": "Christoph Wurst",
   "main": "browserslist.config.js",
   "scripts": {
-    "test": "node __tests__/browserslist.test.mjs"
+    "test": "node --test"
   },
   "devDependencies": {
     "browserslist": "^4.26.3",
