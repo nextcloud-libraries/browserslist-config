@@ -4,7 +4,7 @@
  */
 
 module.exports = [
-	'baseline widely available with downstream and last 4 major versions and not dead',
-	'baseline widely available with downstream and >0.25% and not dead',
+	'baseline widely available with downstream and last 2 major versions and not dead',
+	'baseline widely available with downstream and >0.05% and not dead',
 	'firefox esr'
 ]
