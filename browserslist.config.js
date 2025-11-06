@@ -4,9 +4,7 @@
  */
 
 module.exports = [
-	'defaults',
-	'not op_mini all',
-	'not dead',
-	'Firefox ESR',
-	'baseline widely available',
+	'baseline widely available with downstream and last 2 major versions and not dead',
+	'baseline widely available with downstream and >0.05% and not dead',
+	'firefox esr'
 ]
