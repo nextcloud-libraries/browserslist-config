@@ -6,13 +6,13 @@
     "nextcloud",
     "browserslist"
   ],
-  "homepage": "https://github.com/nextcloud/browserslist-config#readme",
+  "homepage": "https://github.com/nextcloud-libraries/browserslist-config#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/nextcloud/browserslist-config"
+    "url": "https://github.com/nextcloud-libraries/browserslist-config"
   },
   "license": "GPL-3.0-or-later",
-  "author": "Christoph Wurst",
+  "author": "Nextcloud GmbH and Nextcloud contributors",
   "main": "browserslist.config.js",
   "scripts": {
     "test": "node --test"
