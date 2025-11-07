@@ -7,6 +7,19 @@
 
 All notable changes to this project will be documented in this file.
 
+## 3.1.2 - 2025-11-07
+### Fixed
+* fix: adjust config to support only active or used browsers
+
+### Changed
+* chore: update node versions
+  This package now supports to be used with Node 22 and Node 24.
+* chore: rename internally browserlist to browserslist
+* chore: use consistent note about contributing and authors
+* chore: manually lint
+* test: use node test runner for testing
+* docs: add changelog to keep track of changes
+
 ## 3.1.1 - 2025-10-20
 ### Fixed
 - fix: add minimal supported `browserslist` version to peer dependencies
